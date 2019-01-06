@@ -1,1 +1,1 @@
-Parallax website from Traversy Media tutorial
+Parallax website using HTML and CSS from a Traversy Media tutorial.
