@@ -22,17 +22,17 @@ body, html{
 }
 
 .pimg1{
-	background-image: url('https://github.com/m-aiken/parallax-website-images/blob/master/by_hendrik_b.jpeg?raw=true');
+	background-image: url(/images/by_hendrik_b.jpeg);
 	min-height: 100%;
 }
 
 .pimg2{
-	background-image: url('https://github.com/m-aiken/parallax-website-images/blob/master/by_pixabay.jpeg?raw=true');
+	background-image: url(/images/by_pixabay.jpeg);
 	min-height: 400px;
 }
 
 .pimg3{
-	background-image: url('https://github.com/m-aiken/parallax-website-images/blob/master/by_elviss_railijs_bitans.jpeg?raw=true');
+	background-image: url(/images/by_elviss_railijs_bitans.jpeg);
 	min-height: 400px;
 }
 
